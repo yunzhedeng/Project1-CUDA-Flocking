@@ -7,11 +7,11 @@ Project 1 - Flocking**
 
 <table>
   <tr>
-    <td align="center">
-      <img src="own_images/boids_screenshot.png" width="480">
+    <td align="center" width="50%">
+      <img src="own_images/boids_screenshot.png" height="420">
     </td>
-    <td align="center">
-      <img src="own_images/boids_animation.gif" width="480">
+    <td align="center" width="50%">
+      <img src="own_images/boids_animation.gif" height="420">
     </td>
   </tr>
 </table>
